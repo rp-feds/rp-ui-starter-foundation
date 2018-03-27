@@ -72,11 +72,13 @@ Clientside Javascript (jQuery) Best Practices:
 https://github.com/holidayextras/culture/blob/master/clientside-jquery-best-practices.md
 
 
-### DEVELOPMENT TOOLS ###
+### TOOLS ###
 
 All of our front-end tooling is built upon Node and npm.
 
 -	Gulp – The glue between all of our build tools
+- Webpack - the module bundler
+- Babel - tool that helps you write code in the latest version of JavaScript
 
 -	BrowserSync – Live-reloads and synchronises browsers, plus other goodies. 
 -	ESLint – The best JavaScript linter. 
