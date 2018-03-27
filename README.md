@@ -1,5 +1,5 @@
-# rp-ui-starter
-Rightpoint’s starter kit for your front-end projects.
+### rp-ui-starter
+# Rightpoint’s starter kit for your front-end projects.
 
 This version has a Gulp-powered build system with these features:
 - HTML partials with Panini
