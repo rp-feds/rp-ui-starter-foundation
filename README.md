@@ -1,6 +1,12 @@
 # rp-ui-starter
 Rightpoint’s starter kit for your front-end projects.
 
+This version has a Gulp-powered build system with these features:
+- HTML partials with Panini
+- Sass compilation and prefixing
+- JavaScript module bundling with webpack
+- For production builds: CSS compression, JavaScript compression, Image compression
+
 
 
 ## Getting Started
