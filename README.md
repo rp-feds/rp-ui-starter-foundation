@@ -33,9 +33,8 @@ The point of having style guidelines is to have a common vocabulary of coding so
 -	Consistency and conventions between team members is paramount
 -	Solutions should be as simple and clear as possible
 -	Solutions should serve a specific purpose
-- Whenever possible use GitFlow Branching Methodology
-https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
-
+- Github Flow - follow branch based workflow 
+https://help.github.com/articles/github-flow/
 
 
 ### HTML PRINCIPLES ###
