@@ -12,7 +12,7 @@ This version has a Gulp-powered build system with these features:
 
 ## Getting Started
 
-Clone: https://github.com/rp-feds/rp-ui-starter.git
+Clone: https://github.com/rp-feds/rp-ui-starter-foundation.git
 
 Once you have cloned the repo, navigate in to the directory via terminal and run:
 
