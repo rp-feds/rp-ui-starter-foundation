@@ -9,7 +9,6 @@ This version has a Gulp-powered build system with these features:
 - For production builds: CSS compression, JavaScript compression, Image compression
 
 
-
 ## Getting Started
 
 Clone: https://github.com/rp-feds/rp-ui-starter-foundation.git
